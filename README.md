@@ -21,6 +21,10 @@ In Windows, ensure that you have python3 installed, navigate to the directory wh
 
     python masterscript.py
 
+
+
+
+
 On Termux (android), install Termux-Ubuntu by first running:
 
     pkg install wget proot git && wget https://raw.githubusercontent.com/Neo-Oli/termux-ubuntu/master/ubuntu.sh && ./ubuntu.sh
@@ -38,7 +42,7 @@ or if you don't have python3 installed, run
 
     ./masterscript.sh
 
-# Usage instructions
+# Usage instructions:
 
 This script, when launched, gives 4 options:
 1. Install (Asks us to choose different server properties, and then Installs the latest version of PaperMC, GeyserMC, Floodgate, Viaversion, ViaBackwards and ViaRewind as .jar files)

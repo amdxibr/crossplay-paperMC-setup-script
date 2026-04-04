@@ -1,6 +1,6 @@
 # CrossplayPaperMCScript
 
-A collection of scripts (.sh and .py) designed to automate and simplify the creation and update of a Minecraft Java + Bedrock crossplay server.
+A collection of scripts (.sh and .py) designed to automate and simplify the creation and update of a PaperMC Minecraft Java + Bedrock crossplay server.
 
 # Setup instructions:
 

@@ -1,4 +1,4 @@
-# Crossplay-paperMC-setup-script
+# crossplay-paperMC-setup-script
 
 A collection of scripts (.sh and .py) designed to automate and simplify the creation and update of a PaperMC Minecraft Java + Bedrock crossplay server.
 
@@ -33,7 +33,7 @@ Then launch Ubuntu by running:
     ./start-ubuntu.sh
 Once you've launched Ubuntu, run: 
 
-    git clone https://github.com/amdxibr/CrossplayPaperMCScript && cd CrossplayPaperMCScript && chmod +x *
+    git clone https://github.com/amdxibr/CrossplayPaperMCScript && cd crossplay-paperMC-setup-script && chmod +x *
 
 Then run the server setup script by either running
 

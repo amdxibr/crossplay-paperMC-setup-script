@@ -7,7 +7,7 @@ A collection of scripts (.sh and .py) designed to automate and simplify the crea
 Make sure that you have python3 and Java 
 (minimum version 21) installed on your device.
 
-Create a folder and move these both scripts into it, if not already.
+First, download the files from this repo, and then create a folder and move these both scripts into it, if not already.
 
 In order to use masterscript.sh, navigate to the directory where masterscript.sh is located using the cd command, and run this in your macOS or Linux terminal:
 
@@ -33,7 +33,7 @@ Then launch Ubuntu by running:
     ./start-ubuntu.sh
 Once you've launched Ubuntu, run: 
 
-    git clone https://github.com/amdxibr/CrossplayPaperMCScript && cd crossplay-paperMC-setup-script && chmod +x *
+    git clone https://github.com/amdxibr/crossplay-paperMC-setup-script && cd crossplay-paperMC-setup-script && chmod +x *
 
 Then run the server setup script by either running
 

@@ -1,6 +1,7 @@
 # crossplay-paperMC-setup-script
 
-A collection of scripts (.sh and .py) designed to automate and simplify the creation and update of a PaperMC Minecraft Java + Bedrock crossplay server.
+Tired of manually having to download the latest server JAR file for your minecraft server?
+In this GitHub repository, i present to y'all my collection of scripts (.sh and .py) designed to automate and simplify the creation and update of a PaperMC Minecraft Java + Bedrock crossplay server.
 
 # Setup instructions:
 

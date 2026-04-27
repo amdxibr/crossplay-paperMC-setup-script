@@ -5,7 +5,7 @@ In this GitHub repository, i present to y'all my collection of scripts (.sh and 
 
 # Setup instructions:
 
-Make sure that you have python3 and Java 
+Make sure that you have python3, jq, and Java 
 (minimum version 21) installed on your device.
 
 First, download the files from this repo, and then create a folder and move these both scripts into it, if not already.
